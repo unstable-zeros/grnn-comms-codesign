@@ -1,0 +1,24 @@
+{
+"N": 20, 
+"degree": 6,
+"T": 50,
+"p": 1,
+"q": 1,
+"h": 5,
+"B_norm": 1,
+
+"num_epoch": 750,
+"log_interval": 10,
+"batch_size": 20,
+"ensemble_size": 2,
+"val_size": 50,
+"grnn_hidden_dim": 5,
+"threshold": 4e-3,
+
+"gcnn_decay_interval": 10,
+
+"num_topologies": 50,
+"num_x0s": 100,
+"verbose": false,
+"validation_size": 1000
+}

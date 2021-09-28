@@ -1,0 +1,19 @@
+{
+"N": 20,
+"degree": 6,
+"T": 50,
+"p": 1,
+"q": 1,
+"h": 5,
+"B_norm": 1,
+
+"num_epoch": 150,
+"batch_size": 20,
+"ensemble_size": 3,
+"val_size": 200,
+"grnn_hidden_dim": 5,
+"threshold": 4e-3,
+"num_topologies": 30,
+"num_x0s": 100,
+"verbose": false
+}
